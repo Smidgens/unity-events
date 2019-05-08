@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Smidgens/Unity-Asset-Events/master/LICENSE)
+
+
 # Unity Asset Events
 
 This plugin lets you define persistent events and register listeners to their invocation. Listeners can be registered either at runtime (static), or offline (persistent). Offline listeners, i.e, when no scene is running, are useful for propagating the event call and arguments send to it to other persistent assets like audio mixers or post processing profiles (for example, setting pitch/volume). Online listeners are meant to be used more dynamically, and are thus used in combination with a Listener script. 
