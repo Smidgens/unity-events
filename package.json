@@ -1,0 +1,20 @@
+{
+	"name":"com.smidgenomics.unity-events",
+	"version":"0.1.0",
+	"displayName":"Scriptable Events",
+	"description":"Event handling through scriptable objects.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Smidgens/unity-events.git"
+	},
+	"author":{
+		"name":"Unnar Krist",
+		"url":"https://github.com/Smidgens"
+	},
+	"keywords":[
+		"events",
+		"unity-events",
+		"scriptable-events",
+		"smidgenomics"
+	]
+}

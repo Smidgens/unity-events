@@ -1,0 +1,18 @@
+{
+    "name": "Smidgenomics.Unity.Events.Editor",
+    "rootNamespace": "Smidgenomics.Unity.Events.Editor",
+    "references": [
+        "GUID:babe5db799541d042a6144b54cb337f1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
