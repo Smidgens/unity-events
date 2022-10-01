@@ -12,8 +12,9 @@ namespace Smidgenomics.Unity.Events
 		{
 #if UNITY_EDITOR
 			Debug.Log("Event not set, disabling", this);
-		}
 #endif
+		}
+
 	}
 
 	/// <summary>
