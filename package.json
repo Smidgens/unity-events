@@ -1,6 +1,6 @@
 {
 	"name":"com.smidgenomics.unity-events",
-	"version":"0.1.0",
+	"version":"0.3.0",
 	"displayName":"Scriptable Events",
 	"description":"Event handling through scriptable objects.",
 	"repository": {
